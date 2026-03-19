@@ -13,14 +13,11 @@ Focus Planner is an ADHD-friendly task management app designed to help users sta
 - Simple and distraction-free design
 
 ## 🔒 Privacy Policy
-View the privacy policy here:
-https://yourusername.github.io/focus-planner-privacy/
+https://corluvallc.github.io/focus-planner-privacy/
 
 ## 🛠 Support
-If you need help, visit:
-https://yourusername.github.io/focus-planner-privacy/support.html
+https://corluvallc.github.io/focus-planner-privacy/support.html
 
-Or contact us directly:
 📧 corluvallc@gmail.com
 
 ## 📄 Notes
